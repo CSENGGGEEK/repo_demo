@@ -6,3 +6,6 @@
 
 /* I dont want any conflict atleast */
 >>>>>>> Stashed changes
+
+/* I am from feature branch */
+
