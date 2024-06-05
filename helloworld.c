@@ -9,4 +9,8 @@
 
 /* I am from feature branch */
 
+<<<<<<< HEAD
 /* Anothey kjehgughej*/
+=======
+/* Another try */
+>>>>>>> 0cc7f60 (Another try)
